@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot name="diff_summer_robot">
+    <link name="base_link">
+        <visual>
+            <geometry>
+                <box size="0.2 0.1 0.06"/>
+            </geometry>
+            <material name="grey">
+                <color rgba="0.5 0.5 0.5 1"/>
+            </material>
+        </visual>    
+    </link>
+</robot>
