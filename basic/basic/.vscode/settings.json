@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/dario/Workspaces/chamba_ws/build/basic",
+        "/home/dario/Workspaces/chamba_ws/install/basic/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/dario/Workspaces/chamba_ws/build/basic",
+        "/home/dario/Workspaces/chamba_ws/install/basic/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
