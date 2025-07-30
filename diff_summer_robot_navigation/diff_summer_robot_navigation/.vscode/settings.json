@@ -4,9 +4,5 @@
     ],
     "python.analysis.extraPaths": [
         "/opt/ros/jazzy/lib/python3.12/site-packages"
-    ],
-    "github.copilot.chat.codeGeneration.useInstructionFiles": true,
-    "files.associations": {
-        "iostream": "cpp"
-    }
+    ]
 }
